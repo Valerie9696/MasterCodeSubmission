@@ -1,6 +1,6 @@
 Welcome!
 
-This is the code submission of my master thesis.
+This is the code submission of my master thesis. It is based on this repository: https://github.com/MahmudulAlam/Differential-Diagnosis-Using-Transformers
 The folder DDxT contains all files related to the DDxT model, while the folder This contains all files related
 to the DDxT model with altered positional encodings. These were originally two separate git projects (to prevent mix-ups), so some code may double.
 It is only fused for this submission.
